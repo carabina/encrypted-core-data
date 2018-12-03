@@ -3,6 +3,8 @@
 This repo was forked from project-imas one. It upgrades podspec to a commit post v3.3 (instead of v3.2) to fix the following issue:
 https://github.com/project-imas/encrypted-core-data/pull/317
 
+Also, cocoapod pre-release 1.6.0 may be required to fix build issue -- see https://github.com/CocoaPods/CocoaPods/issues/7708.
+
 # Encrypted Core Data SQLite Store [![Build Status](https://travis-ci.org/project-imas/encrypted-core-data.svg?branch=master)](https://travis-ci.org/project-imas/encrypted-core-data)[![analytics](http://www.google-analytics.com/collect?v=1&t=pageview&_s=1&dl=https%3A%2F%2Fgithub.com%2Fproject-imas%2Fencrypted-core-data&_u=MAC~&cid=1757014354.1393964045&tid=UA-38868530-1)]()
 
 
